@@ -4,7 +4,9 @@ main:
   - title: "Research"
     url: /research/
   - title: "Résumé"
-    url: /resume/
+    url: /docs/Resume.pdf/
+  - title: "Curriculum Vitae"
+    url: /docs/Curriculum_vitae.pdf/
   - title: "Posts"
     url: /posts/
   - title: "Publications"
