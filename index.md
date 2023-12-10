@@ -1,8 +1,9 @@
 ![](images/logo.png)
-[Home]("https://chasebrown.io") • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
+
+[Home](https://chasebrown.io) • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
 ---
 
-![](images/profile.webm)
+![](images/profile.jpg)
 
 # Chase Alan Brown
 ## Summary
@@ -15,9 +16,9 @@
     - Arthritis and Clinical Immunology Program, Oklahoma Medical Research Foundation
 
   - [Resume](docs/Resume.pdf)
-  - [Curriculum Vitae]("docs/Curriculum_vitae.pdf")
-  - [LinkedIn]("https://www.linkedin.com/in/chase-brown-3a624530/")
-  - [Google Scholar]("https://scholar.google.com/citations?user=qjRD8Z8AAAAJ")
+  - [Curriculum Vitae](docs/Curriculum_vitae.pdf)
+  - [LinkedIn](https://www.linkedin.com/in/chase-brown-3a624530/)
+  - [Google Scholar](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ)
 
 ### About Me
 #### Current Research
