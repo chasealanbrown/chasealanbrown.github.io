@@ -4,20 +4,20 @@
 # Scientific Illustrations, Designs, and Graphic
 
 ## [Wrenlab mug design](#Wrenlab-mug-design)
-![](images/mugs_design.webm)
-![](images/mugs.webm)
+![](images/mugs_design.jpg)
+![](images/mugs.jpg)
 
 ## [Scientific-Illustration-of-Photothermal-Nanoparticle-Therapy](#Scientific-Illustration-of-Photothermal-Nanoparticle-Therapy)
-![](images/bladder.webm)
+![](images/bladder.jpg)
 
 ## [Emulsion-Breaking-Schematic](#Emulsion-Breaking-Schematic)
-![](images/emulsion_breaking.webm)
+![](images/emulsion_breaking.jpg)
               
 ## [Single-walled-Carbon-Nanotube-Illustration](#Single-walled-Carbon-Nanotube-Illustration)
-![](images/cnt.webm)
+![](images/cnt.jpg)
               
 ## [Experimental-Setup-of-Reactor](#Experimental-Setup-of-Reactor)
-![](images/experimental_setup.webm)
+![](images/experimental_setup.jpg)
 
 ## [Reaction within Experiment](#Reaction-within-Experiment)
-![](images/reaction.webm)
+![](images/reaction.jpg)

@@ -1,9 +1,10 @@
-![](images/logo.png)
+![](images/logo_dark.png#gh-dark-mode-only)
+![](images/logo.png#gh-light-mode-only)
 
 [Home](https://chasebrown.io) • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
 ---
 
-![](images/profile.jpg)
+![](images/profile-smaller.jpg)
 
 # Chase Alan Brown
 ## Summary
