@@ -1,0 +1,17 @@
+name: Chase Brown
+
+remote_theme: academicpages/academicpages.github.io
+
+author:
+  name             : "Chase Brown"
+  avatar           : "images/profile.jpg"
+  github           : "chasealanbrown"
+  mastodon         : "@chase_brown@mathstodon.xyz"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
