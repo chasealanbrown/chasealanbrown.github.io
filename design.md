@@ -7,16 +7,16 @@
 ![](images/mugs_design.webm)
 ![](images/mugs.webm)
 
-##-[Scientific-Illustration-of-Photothermal-Nanoparticle-Therapy](#Scientific-Illustration-of-Photothermal-Nanoparticle-Therapy)
+## [Scientific-Illustration-of-Photothermal-Nanoparticle-Therapy](#Scientific-Illustration-of-Photothermal-Nanoparticle-Therapy)
 ![](images/bladder.webm)
 
-##-[Emulsion-Breaking-Schematic](#Emulsion-Breaking-Schematic)
+## [Emulsion-Breaking-Schematic](#Emulsion-Breaking-Schematic)
 ![](images/emulsion_breaking.webm)
               
-##-[Single-walled-Carbon-Nanotube-Illustration](#Single-walled-Carbon-Nanotube-Illustration)
+## [Single-walled-Carbon-Nanotube-Illustration](#Single-walled-Carbon-Nanotube-Illustration)
 ![](images/cnt.webm)
               
-##-[Experimental-Setup-of-Reactor](#Experimental-Setup-of-Reactor)
+## [Experimental-Setup-of-Reactor](#Experimental-Setup-of-Reactor)
 ![](images/experimental_setup.webm)
 
 ## [Reaction within Experiment](#Reaction-within-Experiment)
