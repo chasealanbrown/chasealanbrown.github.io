@@ -14,6 +14,10 @@ author:
     #    instance: mathstodon.xyz
     #  orcid:
     #  stackoverflow:
+    #
+# Reading Files
+include:
+  - _pages
 
 defaults:
   # _pages
