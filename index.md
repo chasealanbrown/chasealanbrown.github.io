@@ -1,16 +1,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.jpg">
-  <img alt="Light: 'Consider switching to dark mode!' Dark: ''" src="images/logo.jpg">
+  <img alt="Light: 'Consider switching to dark mode!' Dark: ''" src="images/logo.jpg" width=100%>
 </picture>
 ---
 
-# Chase Alan Brown
 ## Information
   - PhD Candidate, Neuroscience
-  - Masters of Science, Chemical and Biological Materials Engineering
     - University of Oklahoma Health Sciences Center
     - Bioinformatics and Machine Learning Laboratory
     - Arthritis and Clinical Immunology Program, Oklahoma Medical Research Foundation
+  - Masters of Science, Chemical and Biological Materials Engineering
+    - University of Oklahoma
+
 
 ## About Me
 ### Current Research

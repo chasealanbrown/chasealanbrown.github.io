@@ -7,14 +7,6 @@ redirect_from:
   - /research
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.jpg">
-  <img alt="Light: 'Consider switching to dark mode!' Dark: ''" src="images/logo.jpg">
-</picture>
-
-[Home](https://chasebrown.io) • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
----
-
 # Current Research Topics
 
   My current research is in developing and utilizing the tools from an emerging field referred to as the "science of Science" in order to:
