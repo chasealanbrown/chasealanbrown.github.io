@@ -4,7 +4,7 @@
 
 ---
 
-![]("images/profile.png")
+![]("images/profile.webm")
 
 # Chase Alan Brown
 
