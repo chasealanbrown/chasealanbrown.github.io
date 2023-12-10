@@ -3,7 +3,7 @@
 
 [Home](https://chasebrown.io) • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
 ---
-# Scientific Illustrations, Designs, and Graphic
+# Scientific Illustrations, Designs, and Graphics
 
 ## [Wrenlab mug design](#Wrenlab-mug-design)
 ![](images/mugs_design.jpg)
