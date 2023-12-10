@@ -3,10 +3,12 @@ name: Chase Brown
 remote_theme: academicpages/academicpages.github.io
 
 author:
-  name             : "Chase Brown"
-  avatar           : "images/profile.jpg"
-  github           : "chasealanbrown"
-  mastodon         : "@chase_brown@mathstodon.xyz"
+  name: "Chase Brown"
+  avatar: "profile.jpg"
+  github: "chasealanbrown"
+  mastodon:
+  - username: chase_brown
+    instance: mathstodon.xyz
 
 defaults:
   - scope:
@@ -15,3 +17,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+
