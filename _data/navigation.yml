@@ -2,16 +2,16 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /research/
+    url: /research
   - title: "Résumé"
-    url: /docs/Resume.pdf/
+    url: /docs/Resume.pdf
   - title: "Curriculum Vitae"
-    url: /docs/Curriculum_vitae.pdf/
+    url: /docs/Curriculum_vitae.pdf
   - title: "Posts"
-    url: /posts/
+    url: /posts
   - title: "Publications"
     url: https://scholar.google.com/citations?user=qjRD8Z8AAAAJ
   - title: "Design"
-    url: /design/
+    url: /design
   - title: "Code"
     url: https://github.com/chasealanbrown.html
