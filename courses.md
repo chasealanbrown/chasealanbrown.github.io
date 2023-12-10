@@ -1,7 +1,5 @@
-![]("images/logo.png")
-
-[Home]("chasebrown.io/#top") • [Research]("research.html") • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design]("design.html") • [Code](https://github.com/chasealanbrown.html)
-
+![](images/logo.png)
+[Home]("https://chasebrown.io") • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
 ---
 
 # Courses

@@ -1,13 +1,10 @@
-![]("images/logo.png")
-
-[Home]("chasebrown.io/#top") • [Research]("research.html") • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design]("design.html") • [Code](https://github.com/chasealanbrown.html)
-
+![](images/logo.png)
+[Home]("https://chasebrown.io") • [Research](research.md) • [Publications](https://scholar.google.com/citations?user=qjRD8Z8AAAAJ) • [Design](design.md) • [Code](https://github.com/chasealanbrown.html)
 ---
 
-![]("images/profile.webm")
+![](images/profile.webm)
 
 # Chase Alan Brown
-
 ## Summary
 ### Information
   - PhD Candidate, Neuroscience
@@ -17,7 +14,7 @@
     - Bioinformatics and Machine Learning Laboratory
     - Arthritis and Clinical Immunology Program, Oklahoma Medical Research Foundation
 
-  - [Resume]("docs/Resume.pdf")
+  - [Resume](docs/Resume.pdf)
   - [Curriculum Vitae]("docs/Curriculum_vitae.pdf")
   - [LinkedIn]("https://www.linkedin.com/in/chase-brown-3a624530/")
   - [Google Scholar]("https://scholar.google.com/citations?user=qjRD8Z8AAAAJ")
