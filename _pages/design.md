@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Design"
+permalink: /design/
+author_profile: true
+redirect_from:
+  - /design
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.jpg">
   <img alt="Light: 'Consider switching to dark mode!' Dark: ''" src="images/logo.jpg">
