@@ -9,11 +9,11 @@ redirect_from:
 
 # Current Research Topics
 
-  My current research is in developing and utilizing the tools from an emerging field referred to as the "science of Science" in order to:
-    - Understand and find artificial neural network architectures for the neural processes by which researchers make decisions on research topics
-    - Develop automated processes for generating hypotheses and scoring them via a test of likelihood of a valid discovery
-    - Create a drug discovery system based off of conditional responses to drugs (tissue-specific, age-specific, or drug synergy responses)
-    - Use the discovery system to find new, potentially synergistic therapies for glioblastoma
+My current research is in developing and utilizing the tools from an emerging field referred to as the "science of Science" in order to:
+  - Understand and find artificial neural network architectures for the neural processes by which researchers make decisions on research topics
+  - Develop automated processes for generating hypotheses and scoring them via a test of likelihood of a valid discovery
+  - Create a drug discovery system based off of conditional responses to drugs (tissue-specific, age-specific, or drug synergy responses)
+  - Use the discovery system to find new, potentially synergistic therapies for glioblastoma
 
 ## Literature-based Discovery
 
