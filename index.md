@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.jpg">
-  <img alt="Light: 'Consider switching to dark mode!' Dark: ''" src="images/logo.jpg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.svg">
+  <img alt="Light: 'Consider switching to dark mode!' Dark: ''" src="images/logo.svg" width="100%">
 </picture>
 
 # Education
