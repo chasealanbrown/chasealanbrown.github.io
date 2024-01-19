@@ -1,5 +1,6 @@
 <picture style="padding: 20px;">
   <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo.svg">
   <img alt="Consider Dark Mode :)" src="images/logo.svg" width="100%">
 </picture>
 
